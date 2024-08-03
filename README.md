@@ -10,5 +10,5 @@
 </code></pre>
 
 ### UPDATE SCRIPT 
-<pre><code>wget -q https://raw.githubusercontent.com/traderabal2/Safassh1/main/update.sh && chmod +x update.sh && ./update.sh
+<pre><code>wget -q https://raw.githubusercontent.com/traderabal2/Safassh/main/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
