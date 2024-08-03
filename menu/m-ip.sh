@@ -23,8 +23,8 @@ echo -e "         $COLOR1╭═════════════════�
 echo -e "         $COLOR1      ${WH}HANYA TERSEDIA UNTUK ADMIN VVIP    ${NC}"
 echo -e "         $COLOR1    ${WH}Please Buy Permission In Your Admin   ${NC}"
 echo -e "         $COLOR1             ${WH}ADMIN CONTACT   ${NC}"
-echo -e "         $COLOR1         ${WH}Telegram: t.me/diwayaa    ${NC}"
-echo -e "         $COLOR1      ${WH}Whatsapp: wa.me/6281228861758    ${NC}"
+echo -e "         $COLOR1         ${WH}Telegram: t.me/SFvpnStore    ${NC}"
+echo -e "         $COLOR1      ${WH}Whatsapp: wa.me/628159818189   ${NC}"
 echo -e "         $COLOR1╰══════════════════════════════════════════╯${NC}"
 read -n 1 -s -r -p " [ Enter ] To Regristed"
 cd
