@@ -1024,7 +1024,7 @@ secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
 clear
 echo -e "${BIBlue}╭════════════════════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}│${BGCOLOR} SUCCESS INSTALL AUTOSCRIPT PREMIUM BY TUNNELSTORES${NC} ${BIBlue}│${NC}"
+echo -e "${BIBlue}│${BGCOLOR} SUCCESS INSTALL AUTOSCRIPT PREMIUM BY SFVPNTORES${NC} ${BIBlue}│${NC}"
 echo -e "${BIBlue}╰════════════════════════════════════════════════════╯${NC}"
 echo -e ""
 echo -e "\033[93;1m Wait inn 4 sec...\033[0m"
