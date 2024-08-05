@@ -30,7 +30,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${BIBlue}╭══════════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}│ ${BGCOLOR}  WELCOME TO SAFA STORES             ${BIBlue} │${NC}"
+echo -e "${BIBlue}│ ${BGCOLOR}  WELCOME TO SF VPN STORES             ${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════════╯${NC}"
 echo ""
 sleep 4
