@@ -750,7 +750,7 @@ print_success "Udp Custom Berhasil"
 clear
 print_install "MEMASANG NOOBZVPNS"
 cd
-wget https://raw.githubusercontent.com/traderabal2/Safassh/noobz/main/noobzvpns.zip
+wget https://raw.githubusercontent.com/SatanTech/noobz/main/noobzvpns.zip
 unzip noobzvpns.zip
 chmod +x noobzvpns/*
 cd noobzvpns
