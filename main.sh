@@ -653,7 +653,7 @@ print_success "Fail2ban"
 function ins_epro(){
 clear
 print_install "Menginstall ePro WebSocket Proxy"
-wget -O /usr/bin/ws "https://raw.githubusercontent.com/traderabal2/Safassh/main/Fls/ws" >/dev/null 2>&1
+wget -O /usr/bin/ws "https://raw.githubusercontent.com/traderabal/Safassh/main/Fls/ws" >/dev/null 2>&1
 wget -O /usr/bin/tun.conf "https://raw.githubusercontent.com/traderabal/Safassh/main/Cfg/tun.conf" >/dev/null 2>&1
 wget -O /etc/systemd/system/ws.service "https://raw.githubusercontent.com/traderabal/Safassh/main/Fls/ws.service" >/dev/null 2>&1
 chmod +x /etc/systemd/system/ws.service
